@@ -1,0 +1,12 @@
+.demoPane {
+  border: 3px solid white;
+  border-radius: 15px;
+  overflow: hidden;
+  width: 40%;
+  height: 40%;
+}
+
+.demoPane img {
+  height: 100%;
+  width: 100%;
+}

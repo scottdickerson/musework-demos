@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: "LiberationSans";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+#root {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+}
+
+@font-face {
+  font-family: LiberationSans;
+  src: url(./fonts/LiberationSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: FranklinGothicBook;
+  src: url(./fonts/franklingothic-book.otf);
+}
+
+@font-face {
+  font-family: GhostLight;
+  src: url(./fonts/Ghostlight-Regular.ttf);
+}
+@font-face {
+  font-family: BuiltTitling;
+  src: url("./fonts/built titling rg.ttf");
+}
