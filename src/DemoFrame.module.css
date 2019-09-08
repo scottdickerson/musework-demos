@@ -6,7 +6,9 @@
 }
 .demoFrame h2 {
   position: absolute;
-  top: 16px;
+  top: 0px;
+  font-weight: 400;
   left: 16px;
   color: white;
+  margin-top: 5px;
 }
