@@ -19,9 +19,7 @@ const App = () => {
             />
             <DemoPane
               img="demoshots/journey.png"
-              onClick={() =>
-                setIFrameURL("http://localhost:3002/Unit29Title.html")
-              }
+              onClick={() => setIFrameURL("http://localhost:3002")}
             />
             <DemoPane
               img="demoshots/spyingwithstem2.png"
