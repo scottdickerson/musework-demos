@@ -23,7 +23,7 @@ const App = () => {
             />
             <DemoPane
               img="demoshots/spyingwithstem2.png"
-              onClick={() => setIFrameURL("http://localhost:3002")}
+              onClick={() => setIFrameURL("http://localhost:3004")}
             />
             <DemoPane
               img="demoshots/austin2040.png"
