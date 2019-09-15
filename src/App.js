@@ -15,7 +15,7 @@ const App = () => {
           <div className="Demos">
             <DemoPane
               img="demoshots/rockabilly.png"
-              onClick={() => setIFrameURL("http://localhost:3000")}
+              onClick={() => setIFrameURL("http://localhost:3001")}
             />
             <DemoPane
               img="demoshots/journey.png"
@@ -24,12 +24,12 @@ const App = () => {
               }
             />
             <DemoPane
-              img="demoshots/rockabilly.png"
-              onClick={() => setIFrameURL("http://localhost:3000")}
+              img="demoshots/spyingwithstem2.png"
+              onClick={() => setIFrameURL("http://localhost:3002")}
             />
             <DemoPane
-              img="demoshots/rockabilly.png"
-              onClick={() => setIFrameURL("http://localhost:3000")}
+              img="demoshots/austin2040.png"
+              onClick={() => setIFrameURL("http://localhost:3003")}
             />
           </div>
         </Fragment>
